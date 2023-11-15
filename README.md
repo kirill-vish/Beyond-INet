@@ -3,9 +3,9 @@
 This repository contains the code for reproducing the results, in the following paper:
 >ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy
 
-[Kirill Vishniakov](https://kirill-vishniakov.github.io/), [Zhiqiang Shen](https://zhiqiangshen.com/), [Zhuang Liu](https://liuzhuang13.github.io/)
+[Kirill Vishniakov¹](https://kirill-vishniakov.github.io/), [Zhiqiang Shen¹](https://zhiqiangshen.com/), [Zhuang Liu²](https://liuzhuang13.github.io/)
 
-[MBZUAI](https://mbzuai.ac.ae/), [Meta AI Research](https://ai.meta.com/)
+[¹MBZUAI](https://mbzuai.ac.ae/), [²Meta AI Research](https://ai.meta.com/)
 
 
 <p align="center">
