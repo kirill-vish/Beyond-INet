@@ -1,0 +1,2 @@
+subj,dataset_name,metric_name,performance
+vit_clip,cue-conflict,accuracy (top-1),0.38984375

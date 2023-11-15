@@ -1,0 +1,2 @@
+subj,dataset_name,metric_name,performance
+tv_resnet50,cue-conflict,accuracy (top-1),0.1828125

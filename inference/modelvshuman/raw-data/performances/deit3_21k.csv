@@ -1,0 +1,2 @@
+subj,dataset_name,metric_name,performance
+deit3_21k,cue-conflict,accuracy (top-1),0.32421875

@@ -1,0 +1,2 @@
+subj,dataset_name,metric_name,performance
+mae,cue-conflict,accuracy (top-1),0.28515625

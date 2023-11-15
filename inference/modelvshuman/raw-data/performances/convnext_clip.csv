@@ -1,0 +1,2 @@
+subj,dataset_name,metric_name,performance
+convnext_clip,cue-conflict,accuracy (top-1),0.29296875

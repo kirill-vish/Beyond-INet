@@ -1,0 +1,38 @@
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.4.0
+    hooks:
+    -   id: trailing-whitespace
+        exclude: 'inference/modelvshuman/.*'
+    -   id: end-of-file-fixer
+        exclude: 'inference/modelvshuman/.*'
+-   repo: https://github.com/pre-commit/mirrors-isort
+    rev: v5.10.0
+    hooks:
+    -   id: isort
+        exclude: 'inference/modelvshuman/.*'
+-   repo: https://github.com/google/yapf
+    rev: v0.40.0
+    hooks:
+    -   id: yapf
+        exclude: 'inference/modelvshuman/.*'
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.4.0
+    hooks:
+    -   id: check-added-large-files
+        exclude: '\.png$'
+-   repo: https://github.com/myint/autoflake
+    rev: v1.4
+    hooks:
+    -   id: autoflake
+        args: ['--remove-all-unused-imports', '--in-place', '--recursive']
+        exclude: '^inference/modelvshuman/'
+- repo: https://github.com/codespell-project/codespell
+  rev: v2.2.2
+  hooks:
+    - id: codespell
+      name: "Check for common misspellings in text files"
+      entry: codespell --skip="*.js,*.html,*.css,*.svg",*.json
+      language: python
+      types: [text]
+      exclude: '^inference/modelvshuman/'
