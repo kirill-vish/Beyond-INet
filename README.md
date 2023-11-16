@@ -7,8 +7,7 @@ This repository contains the code for reproducing the results, in the following 
 
 [¹MBZUAI](https://mbzuai.ac.ae/), [²Meta AI Research](https://ai.meta.com/)
 
-[arXiv paper link](https://github.com/kirill-vish/Beyond-INet)
-
+[arXiv paper link](https://arxiv.org/abs/2311.09215)
 <p align="center">
 <img src="./figures/method.png" width=50% height=50%
 class="center">
