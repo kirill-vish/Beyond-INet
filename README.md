@@ -129,7 +129,7 @@ Kirill Vishniakov ki.vishniakov at gmail.com
 
 ## Citation
 
-If you found our work useful, please consisder citing us.
+If you found our work useful, please consider citing us.
 
 ```
 @article{vishniakov2023convnet,
