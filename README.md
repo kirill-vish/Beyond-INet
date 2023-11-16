@@ -128,6 +128,21 @@ Kirill Vishniakov ki.vishniakov at gmail.com
 
 [PUG-ImageNet](https://github.com/facebookresearch/PUG/tree/main/PUG_ImageNet)
 
+## Citation
+
+If you found our work useful, please consisder citing us.
+
+```
+@article{vishniakov2023convnet,
+      title={ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy}, 
+      author={Kirill Vishniakov and Zhiqiang Shen and Zhuang Liu},
+      year={2023},
+      eprint={2311.09215},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 ## License
 
 This repository is licensed under MIT License.
