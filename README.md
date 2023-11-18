@@ -1,13 +1,14 @@
 # ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy
 
-This repository contains the code for reproducing the results, in the following paper:
->ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy
+>[ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/abs/2311.09215)
 
 [Kirill Vishniakov¹](https://kirill-vishniakov.github.io/), [Zhiqiang Shen¹](https://zhiqiangshen.com/), [Zhuang Liu²](https://liuzhuang13.github.io/)
 
 [¹MBZUAI](https://mbzuai.ac.ae/), [²Meta AI Research](https://ai.meta.com/)
 
-[arXiv paper link](https://arxiv.org/abs/2311.09215)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-green)](https://arxiv.org/abs/2311.09215)
+[![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-Beyond%20ImageNet%20Accuracy-brightgreen)](https://paperswithcode.com/paper/convnet-vs-transformer-supervised-vs-clip)
+
 <p align="center">
 <img src="./figures/method.png" width=50% height=50%
 class="center">
