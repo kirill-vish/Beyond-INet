@@ -1,4 +1,6 @@
 # ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-green)](https://arxiv.org/abs/2311.09215)
+[![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-Beyond%20ImageNet%20Accuracy-brightgreen)](https://paperswithcode.com/paper/convnet-vs-transformer-supervised-vs-clip)
 
 >[ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/abs/2311.09215)
 
@@ -6,8 +8,13 @@
 
 [¹MBZUAI](https://mbzuai.ac.ae/), [²Meta AI Research](https://ai.meta.com/)
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-green)](https://arxiv.org/abs/2311.09215)
-[![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-Beyond%20ImageNet%20Accuracy-brightgreen)](https://paperswithcode.com/paper/convnet-vs-transformer-supervised-vs-clip)
+
+<p float="left">
+  <img src="figures/mbzuai_logo.jpg" width="250" style="vertical-align: top;" />
+  <img src="figures/meta_logo.png" width="250" />
+</p>
+
+
 
 <p align="center">
 <img src="./figures/method.png" width=50% height=50%
