@@ -101,7 +101,7 @@ By default the following values are supported for the `--model` argument: `deit3
 
 2. Navigate to the project directory:
     ```bash
-    cd Beyond-ImageNet-Accuracy
+    cd Beyond-INet
     ```
 
 3. Create a new Conda environment and activate it:
