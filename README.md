@@ -17,7 +17,7 @@
 ## Overview
 
 <p align="center">
-<img src="./figures/method.png" width=50% height=50%
+<img src="./figures/method.png" width=35% height=35%
 class="center">
 <figcaption>Figure: Models are often compared only by their ImageNet accuracy, without looking at many other important behaviors. In our work, we analyze models with similar ImageNet accuracies and find that they have different properties.</figcaption>
 </p>
@@ -96,7 +96,7 @@ By default the following values are supported for the `--model` argument: `deit3
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kirill.vishniakov/Beyond-ImageNet-Accuracy.git
+    git clone https://github.com/kirill-vish/Beyond-INet.git
     ```
 
 2. Navigate to the project directory:
