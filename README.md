@@ -5,7 +5,7 @@
 
 >[ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/abs/2311.09215)
 
-[Kirill Vishniakov¹](https://kirill-vishniakov.github.io/), [Zhiqiang Shen¹](https://zhiqiangshen.com/), [Zhuang Liu²](https://liuzhuang13.github.io/)
+[Kirill Vishniakov¹](https://kirill-vish.github.io/), [Zhiqiang Shen¹](https://zhiqiangshen.com/), [Zhuang Liu²](https://liuzhuang13.github.io/)
 
 [¹MBZUAI](https://mbzuai.ac.ae/), [²Meta AI Research](https://ai.meta.com/)
 
