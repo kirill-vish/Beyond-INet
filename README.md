@@ -1,7 +1,6 @@
 # ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-green)](https://arxiv.org/abs/2311.09215)
-[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://kirill-vish.github.io/beyond-imagenet-accuracy/)
-[![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-Beyond%20ImageNet%20Accuracy-brightgreen)](https://paperswithcode.com/paper/convnet-vs-transformer-supervised-vs-clip)
+
+### [Paper](https://arxiv.org/abs/2311.09215) | [Project Page](https://kirill-vish.github.io/beyond-imagenet-accuracy/)
 
 >[ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/abs/2311.09215)
 
