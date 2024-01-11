@@ -17,7 +17,7 @@
 ## Overview
 
 <p align="center">
-<img src="./figures/method.png" width=35% height=35%
+<img src="./figures/method.png" width=45% height=45%
 class="center">
 <figcaption>Figure: Models are often compared only by their ImageNet accuracy, without looking at many other important behaviors. In our work, we analyze models with similar ImageNet accuracies and find that they have different properties.</figcaption>
 </p>
