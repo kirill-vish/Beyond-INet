@@ -17,7 +17,7 @@
 ## Overview
 
 <p align="center">
-<img src="./figures/method.png" width=55% height=55%
+<img src="./figures/method.png" width=57% height=57%
 class="center">
 </p>
 
