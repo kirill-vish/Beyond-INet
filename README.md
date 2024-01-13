@@ -28,7 +28,7 @@ class="center">
 
 This repository provides the necessary code and resources to reproduce the experiments detailed in our paper.
 
-**Inference Code** is Located within the `inference` folder, containing functionality for various evaluations like calibration, ImageNet-X, PUG-ImageNet, robustness, shape/texture bias and transformation invariance.
+**Inference Code** is located within the `inference` folder, containing functionality for various evaluations like calibration, ImageNet-X, PUG-ImageNet, robustness, shape/texture bias and transformation invariance.
 
 There are several **Entry Points** to run experiments:
   - `main.py`: Main script to run experiments. Using this script you can run experiments for robustness, ImageNet-X, invariance, PUG-ImageNet.
