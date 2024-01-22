@@ -1,8 +1,10 @@
-# ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy
+<div align="center">
+
+# ConvNet vs Transformer, Supervised vs CLIP: <br> Beyond ImageNet Accuracy
 
 ### [Paper](https://arxiv.org/abs/2311.09215) | [Project Page](https://kirill-vish.github.io/beyond-imagenet-accuracy/) | [Twitter](https://x.com/liuzhuang1234/status/1744471159901401151?s=20)
 
->[ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/abs/2311.09215)
+[ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy](https://arxiv.org/abs/2311.09215)
 
 [Kirill Vishniakov¹](https://kirill-vish.github.io/), [Zhiqiang Shen¹](https://zhiqiangshen.com/), [Zhuang Liu²](https://liuzhuang13.github.io/)
 
@@ -13,6 +15,7 @@
   <img src="figures/mbzuai_logo.jpg" width="250" style="vertical-align: top;" />
   <img src="figures/meta_logo.png" width="250" />
 </p>
+</div>
 
 ## Overview
 
