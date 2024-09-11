@@ -4,7 +4,7 @@ from datetime import datetime
 
 import torch
 import torch.nn.functional as F
-import tqdm
+from tqdm import tqdm
 from imagenet_x import error_ratio, get_factor_accuracies
 
 

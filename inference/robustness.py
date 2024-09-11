@@ -1,7 +1,7 @@
 import os
 
 import torch
-import tqdm
+from tqdm import tqdm
 from datasets import load_dataset
 from easyrobust.benchmarks import (evaluate_imagenet_a, evaluate_imagenet_r,
                                    evaluate_imagenet_sketch,

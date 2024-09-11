@@ -3,7 +3,7 @@ import os
 
 import torch
 import torchvision.datasets as datasets
-import tqdm
+from tqdm import tqdm
 from torch.utils.data import DataLoader
 from torchvision import transforms
 
